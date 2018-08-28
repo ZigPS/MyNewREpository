@@ -1,1 +1,12 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<project name="nation" default="clean">
+<target name="info">
+	<echo>Hello World-Build Target Executed </echo>
+	</target>
+	<target name="clean">
+	<echo>Hello World-Clean Target Executed </echo>
+	</target>
+</project>
