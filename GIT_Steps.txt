@@ -1,0 +1,19 @@
+go to that directory
+
+cd d:
+cd /DevOps/Git_UploadFiles
+ls
+
+step 1  git init
+
+step 2 git add .
+
+step 3 git commit -m "First commit"
+
+step 4 git remote add origin https://github.com/ZigPS/MyNewRepository.git
+
+step 5  git remote -v
+
+step 6 git push origin master
+
+login to GIT account
